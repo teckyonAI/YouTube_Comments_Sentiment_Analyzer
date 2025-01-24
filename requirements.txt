@@ -1,0 +1,9 @@
+streamlit
+pandas
+google-api-python-client
+joblib
+wordcloud
+seaborn
+matplotlib
+click==8.0.4
+scikit-learn
