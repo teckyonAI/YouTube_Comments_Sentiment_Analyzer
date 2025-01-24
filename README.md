@@ -1,4 +1,4 @@
-# YouTube Comments Sentiment Analyzer: Understand Audience Feedback
+# YouTube Sentiment Analyzer: Understand Audience Feedback
 
 Analyze and understand the sentiments of your YouTube audience. This project processes comments from YouTube videos, classifies them into sentiment categories, and provides actionable insights through intuitive visualizations.
 
@@ -14,11 +14,11 @@ Follow these steps to set up the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/teckyonAI/YouTube_Comments_Sentiment_Analyzer.git
-   
+   git clone https://github.com/teckyonAI/YouTube_Sentiment_Analyzer.git
+
 2. Navigate to the project directory:
    ```bash
-   cd YouTube_Comments_Sentiment_Analyzer
+   cd YouTube_Sentiment_Analyzer
 
 3. Install the required dependencies:
     ```bash
