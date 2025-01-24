@@ -14,11 +14,11 @@ Follow these steps to set up the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/YouTube-Comments-Sentiment-Analyzer.git
+   git clone https://github.com/teckyonAI/YouTube_Comments_Sentiment_Analyzer.git
    
 2. Navigate to the project directory:
    ```bash
-   cd YouTube-Comments-Sentiment-Analyzer
+   cd YouTube_Comments_Sentiment_Analyzer
 
 3. Install the required dependencies:
     ```bash
