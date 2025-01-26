@@ -13,7 +13,7 @@ def video_key(url):
     url=(url.split(start))[1].split(end)[0]
     return url
 def scrape_comments(ID):
-    api_key = "AIzaSyDQbvPYV1sYRiE109Les7R1yDLIZXhLeTw" 
+    api_key = "your_api_key" 
     youtube = build('youtube', 'v3', developerKey=api_key)
     box = [[ 'Comment', 'Likes']]
     data = youtube.commentThreads().list(part='snippet', videoId=ID, maxResults='100', textFormat="plainText").execute()
